@@ -4,7 +4,7 @@ MAINTAINER cnDocker
 
 ENV SS_URL=https://github.com/shadowsocks/shadowsocks-libev/archive/v2.5.6.tar.gz \
     SS_DIR=shadowsocks-libev-2.5.6 \
-    libsodium_latest="https://github.com/jedisct1/libsodium/releases/download/1.0.11/libsodium-1.0.11.tar.gz" \
+    libsodium_latest="https://github.com/jedisct1/libsodium/releases/download/1.0.12/libsodium-1.0.12.tar.gz" \
     CONF_DIR="/usr/local/conf" \
     kcptun_latest="https://github.com/xtaci/kcptun/releases/latest" \
     KCPTUN_DIR=/usr/local/kcp-server
